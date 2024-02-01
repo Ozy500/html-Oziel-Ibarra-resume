@@ -1,0 +1,33 @@
+body{
+    background-color: #F2EFE5;
+}
+
+img{
+    border: 5px solid black;
+    margin-left: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+#summary{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#hobbies{
+    padding-left: 20px;
+}
+
+#contact-me{
+    padding-left: 20px;
+}
+
+footer{
+    text-align: center;
+}
